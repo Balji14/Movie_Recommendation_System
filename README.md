@@ -40,12 +40,4 @@ This application recommends movies based on similarity scores and allows users t
 
 ---
 
-## 📁 Project Structure
 
-movie-recommender/
-│
-├── app.py # Main Streamlit app
-├── movies_dict.pkl # Movie dataset
-├── similarity_dict.pkl # Similarity matrix
-├── requirements.txt # Project dependencies
-└── README.md # Documentation
